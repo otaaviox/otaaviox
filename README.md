@@ -3,7 +3,7 @@
   <br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaaviox&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaaviox&layout=compact&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaaviox&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaaviox&layout=compact&show_icons=true&dracula)
 
 <i class="devicon-devicon-plain"></i>
 <div style="display: inline_block"><br>
